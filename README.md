@@ -6,10 +6,10 @@
 ### I'm 刘天雯
 
 - 🔭 现就读于石家庄铁道大学软件工程系
-## 技能清单
-- 🌱 技能清单
---✨后端开发：Java / Python / C++
---🚀
+### 技能清单
+- 🌱 后端开发：Java / Python / C++
+- ✨ 前端开发：CSS / JS / VUE / vodejs
+- 🚀 大数据开发：
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 - ⚡ Fun fact: Data Analysis📊
