@@ -9,9 +9,8 @@
 ### 技能清单
 - 🌱 后端开发：Java / Python / C++
 - ✨ 前端开发：CSS / JS / VUE / vodejs
-- 🚀 大数据开发：
-- 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
+- 🚀 大数据开发：Hadoop / hbase / flume
+- 💬 邮箱：1532585085@qq.com
 - ⚡ Fun fact: Data Analysis📊
 
 ### Languages and Tools
@@ -23,8 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 
-⭐️ From [haoruilee](https://github.com/haoruilee)
+⭐️ From [ltw](https://github.com/ltw222)
